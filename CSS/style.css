@@ -1,0 +1,44 @@
+
+.topnav {
+  background-color: black;
+  overflow: hidden;
+}
+
+
+.topnav a {
+  float:left;
+  color: white;
+  text-align: center;
+  padding: 15px 40px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+
+.topnav a:hover {
+  background-color:blue;
+  color:#FFF600;
+}
+
+
+.topnav a.active {
+  background-color:#FFF600;
+  color:#0062ff;;
+}
+
+a{
+  font-family: Trebuchet MS;
+}
+h3{
+  font-family: Trebuchet MS;
+}
+h1{
+  font-family: Trebuchet MS;
+}
+
+body {
+  background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9e2d21ca-5d4c-43bf-97b3-5e9ca2a7202d/dd0nv6p-66c7c750-840e-4fdf-ad5e-d62b9d7c0135.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzllMmQyMWNhLTVkNGMtNDNiZi05N2IzLTVlOWNhMmE3MjAyZFwvZGQwbnY2cC02NmM3Yzc1MC04NDBlLTRmZGYtYWQ1ZS1kNjJiOWQ3YzAxMzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mGngjuU9D9P-FCMuuw8k_iAt0tbREVTcWWRuYFTOYmk');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
